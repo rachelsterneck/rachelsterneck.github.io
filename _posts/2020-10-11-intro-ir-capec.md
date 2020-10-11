@@ -51,7 +51,7 @@ This post is about information retrieval in the context of attack patterns emplo
 
 ## Steps:
 1. Download ```3000.csv``` from [CAPEC](https://capec.mitre.org/data/definitions/3000.html)
-2. Create a web app using Flask (or a micro-framework of your choice). Create routes and html templates for a home page and a search results page. Check out the source code, [Flask Quickstart](http://flask.pocoo.org/docs/1.0/quickstart/), or [Getting Started Tutorial](https://medium.com/techkylabs/getting-started-with-python-flask-framework-part-1-a4931ce0ea13) to get started.
+2. Create a web app using Flask (or a micro-framework of your choice). Create routes and html templates for a home page and a search results page. Check out the source code, [Flask Quickstart](http://flask.pocoo.org/docs/1.0/quickstart/), or [Getting Started Tutorial](https://medium.com/techkylabs/getting-started-with-Python-flask-framework-part-1-a4931ce0ea13) to get started.
 3. Create a form on the home page where a user can submit a search query
 4. Load the ```3000.csv``` file and save relevant data. I used *description* to train the TFIDF model, *id* to build a url to CAPEC's online database, and *title* to share with users on the results page. 
 5. Implement TFIDF using Scikit-learn or Gensim - or build your own vectorizer from scratch!
