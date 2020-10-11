@@ -9,7 +9,7 @@ comments: false
 
 [PPETrackr](https://github.com/PPE-Tracker/ppetrackr/blob/master/README.md): An open source COVID-19 project to help governments and healthcare facilities manage PPE inventory and allocation\
 \
-[Voynich Manuscript Topic Modeling](https://github.com/rachelsterneck/voynich-topic-modeling): A research project for topic modeling the Voynich Manuscript, illustrated codex hand-written in an unknown writing system
+[Voynich Manuscript](https://github.com/rachelsterneck/voynich-topic-modeling): A research project for topic modeling the Voynich Manuscript, an illustrated codex hand-written in an unknown writing system
 
 ## Publications
 [Probabilistic Predictions of People Perusing: Evaluating Metrics of Language Model Performance for Psycholinguistic Modeling](https://arxiv.org/pdf/2009.03954.pdf)\
